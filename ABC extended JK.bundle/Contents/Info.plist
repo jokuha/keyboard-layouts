@@ -15,7 +15,7 @@
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.abc-jkkeyboards.abc-extendedjk</string>
 		<key>TISIntendedLanguage</key>
-		<string>en-DE</string>
+		<string>en</string>
 	</dict>
 </dict>
 </plist>
