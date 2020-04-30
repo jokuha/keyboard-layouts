@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>ABC extended JK</string>
 	<key>CFBundleVersion</key>
-	<string>0.1</string>
+	<string>0.2</string>
 	<key>KLInfo_ABC - Extended JK</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
