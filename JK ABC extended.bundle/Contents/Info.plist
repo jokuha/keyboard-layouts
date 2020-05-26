@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.abc-jkkeyboards</string>
+	<string>org.sil.ukelele.keyboardlayout.jk-abc-extended-keyboards</string>
 	<key>CFBundleName</key>
-	<string>JK keylayouts</string>
+	<string>JK ABC extended keylayout</string>
 	<key>CFBundleVersion</key>
 	<string>0.3</string>
-	<key>KLInfo_JK – ABC Extended</key>
+	<key>KLInfo_JK ABC Extended</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.abc-jkkeyboards.jk–abcextended</string>
+		<string>org.sil.ukelele.keyboardlayout.jk-abc-extended-keyboards.jk–abc-extended</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
