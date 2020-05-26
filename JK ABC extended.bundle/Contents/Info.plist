@@ -5,18 +5,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.abc-jkkeyboards</string>
 	<key>CFBundleName</key>
-	<string>JK keyboard layouts</string>
+	<string>JK keylayouts</string>
 	<key>CFBundleVersion</key>
 	<string>0.3</string>
-	<key>KLInfo_JK – ABC</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.abc-jkkeyboards.jk–abc</string>
-		<key>TISIntendedLanguage</key>
-		<string>en</string>
-	</dict>
 	<key>KLInfo_JK – ABC Extended</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
