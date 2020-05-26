@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>ProjectName</key>
-	<string>JK keylayouts</string>
+	<string>JK keyboard layouts</string>
 	<key>SourceVersion</key>
 	<string>0.3</string>
 </dict>
